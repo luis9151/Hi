@@ -1,0 +1,58 @@
+[*]
+[*] GTKWave Analyzer v3.3.29 (w)1999-2012 BSI
+[*] Wed Oct 31 06:17:42 2012
+[*]
+[dumpfile] "/afs/ir.stanford.edu/users/c/h/chrisnc/ee108b-ca/lab3_sol/mipstest.vcd"
+[dumpfile_mtime] "Wed Oct 31 06:13:29 2012"
+[dumpfile_size] 1282634
+[savefile] "/afs/ir.stanford.edu/users/c/h/chrisnc/ee108b-ca/lab3_sol/waveformat.gtkw"
+[timestart] 146
+[size] 1680 1002
+[pos] -1 -1
+*-5.778754 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mips_testbench.
+[treeopen] mips_testbench.dut.
+[sst_width] 217
+[signals_width] 267
+[sst_expanded] 1
+[sst_vpaned_height] 293
+@28
+mips_testbench.dut.cpu.clk
+mips_testbench.dut.cpu.rst
+mips_testbench.dut.cpu.en
+@22
+mips_testbench.dut.cpu.pc[31:0]
+mips_testbench.dut.cpu.instr[31:0]
+@24
+mips_testbench.dut.cpu.rs_addr[4:0]
+mips_testbench.dut.cpu.rt_addr[4:0]
+@420
+mips_testbench.dut.cpu.rs_data[31:0]
+mips_testbench.dut.cpu.rt_data[31:0]
+@24
+mips_testbench.dut.cpu.reg_write_addr[4:0]
+@420
+mips_testbench.dut.cpu.reg_write_data[31:0]
+@28
+mips_testbench.dut.cpu.reg_we
+@420
+mips_testbench.dut.cpu.alu_op_x[31:0]
+mips_testbench.dut.cpu.alu_op_y[31:0]
+@24
+mips_testbench.dut.cpu.alu_opcode[3:0]
+@28
+mips_testbench.dut.cpu.alu_overflow
+@420
+mips_testbench.dut.cpu.alu_result[31:0]
+@28
+mips_testbench.dut.cpu.mem_read
+mips_testbench.dut.cpu.mem_we
+mips_testbench.dut.cpu.jump_branch
+mips_testbench.dut.cpu.jump_reg
+mips_testbench.dut.cpu.jump_target
+@23
+mips_testbench.dut.cpu.display_data[18:0]
+@28
+mips_testbench.dut.cpu.display_we
+[pattern_trace] 1
+[pattern_trace] 0
